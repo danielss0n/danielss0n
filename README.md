@@ -1,1 +1,1 @@
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielss0n&layout=compact&theme=onedark&langs_count=6&disable_animations=true&card_width=450))](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielss0n&layout=compact&theme=onedark&langs_count=6&disable_animations=true&card_width=450)
